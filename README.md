@@ -1,2 +1,2 @@
-# HyeJin.github.io
+# HyeJin's Portfolio
 Web Portfolio
